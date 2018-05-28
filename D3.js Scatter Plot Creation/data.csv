@@ -1,0 +1,52 @@
+id,abbv,state,bachelors_over_25,active_past_month
+1,AL,Alabama,14.7,72.4
+2,AK,Alaska,18.4,80.8
+3,AZ,Arizona,17.3,78.8
+4,AR,Arkansas,13.8,69.4
+5,CA,California,20,78.3
+6,CO,Colorado,24.1,83.6
+7,CT,Connecticut,21.3,79.4
+8,DE,Delaware,18.3,75.1
+9,DC,District of Columbia,24.3,79.2
+10,FL,Florida,17.4,76.3
+11,GA,Georgia,18.2,76.4
+12,HI,Hawaii,20.6,80.4
+13,ID,Idaho,16.8,81.3
+14,IL,Illinois,20.1,76.1
+15,IN,Indiana,15.7,73.9
+16,IA,Iowa,18.6,77.4
+17,KS,Kansas,20.3,76.2
+18,KY,Kentucky,13,71.8
+19,LA,Louisiana,15.2,70.5
+20,ME,Maine,19.4,80.3
+21,MD,Maryland,20.7,78.6
+22,MA,Massachusetts,23.2,79.9
+23,MI,Michigan,16.5,74.5
+24,MN,Minnesota,22.7,79.8
+25,MS,Mississippi,13,68.4
+26,MO,Missouri,17.1,75
+27,MT,Montana,19.5,80.4
+28,NE,Nebraska,20.2,78.7
+29,NV,Nevada,15.2,77.5
+30,NH,New Hampshire,21.7,80.7
+31,NJ,New Jersey,23.1,76.7
+32,NM,New Mexico,15.1,76.7
+33,NY,New York,19.6,74.1
+34,NC,North Carolina,18.6,76.8
+35,ND,North Dakota,19.8,78.7
+36,OH,Ohio,16.6,75.1
+37,OK,Oklahoma,16,71.7
+38,OR,Oregon,19.2,83.5
+39,PA,Pennsylvania,17.5,76.7
+40,RI,Rhode Island,18.1,77.5
+41,SC,South Carolina,16.7,74.7
+42,SD,South Dakota,20,78.8
+43,TN,Tennessee,16.2,73.2
+44,TX,Texas,18.2,72.4
+45,UT,Utah,20.8,83.2
+46,VT,Vermont,20.9,81
+47,VA,Virginia,20.9,76.5
+48,WA,Washington,21,81.9
+49,WV,West Virginia,11.8,71.3
+50,WI,Wisconsin,18.9,78.8
+51,WY,Wyoming,17.9,77.9

@@ -1,0 +1,17 @@
+body {background-color: rgba(128, 128, 128, 0.048)}
+
+#maintext { 
+    background-color: rgba(0, 102, 255, 0.089);
+}
+
+.navbar {background-color: rgba(0, 102, 255, 0.089);}
+
+.navbar li a {color: black}
+
+#dataheader {background-color: rgba(0, 102, 255, 0.089); }
+
+#summaryheader {background-color: rgba(0, 102, 255, 0.089);}
+
+#mainheader {background-color: rgba(0, 102, 255, 0.089);}
+
+#sidebar {background-color: rgba(54, 128, 54, 0.185)}
