@@ -62,7 +62,7 @@ d3.csv("data.csv", function(error, data) {
       .data(data)
     .enter().append("circle")
       .attr("class", "dot")
-      .attr("r", 5)
+      .attr("r", 15)
       .attr("cx", function(d) { return x(d.bachelors_over_25); })
       .attr("cy", function(d) { return y(d.active_past_month); })
       .style("fill", "grey") //function(d) { return color(d.state); });
