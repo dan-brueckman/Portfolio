@@ -14,7 +14,7 @@ I have always had a passion for data and a curiousity that is hard to satisfy. I
   * D3.js
 #
 #### A little personal information about me... <br>
-I am originally from the Annapolis, Maryland area. I moved to Austin two years ago in search of new experiences and it has not failed me! In my free time I love to be active, read, and attend music/art shows here in Austin. I often camp, hike, kayak, run, bike, and rock climb. I also enjoy participating in social sport leagues with friends, such as basketball, kickball, volleyball and flag football. <br>
+I am originally from the Annapolis, Maryland area. I moved to Austin two years ago in search of new experiences and it has not failed me! In my free time I love to be active, read, and attend music/art shows here in Austin. I often camp, hike, kayak, run, bike, and rock climb. I also enjoy participating in social sport leagues with friends, including basketball, kickball, volleyball and flag football. <br>
  <br>
 I read fairly religiously, and while science fiction is my favorite genre, I enjoy reading almost anything. Currently, I am reading The Lean Startup, by Eric Ries. 
 #
